@@ -1,0 +1,15 @@
+{
+    "sources": [
+      {
+        "file_path": "source_fixed/generic_questions.json", 
+        "percentage": 100.0,
+        "system_prompt": "You are a helpful assistant AI. Please respond to statements with a true, concise answer."
+      }
+    ],
+    "total_qa_pairs": 1000,
+    "output_file": "unmixed_dataset_deepseek_07_29.json",
+    "llm_model": "deepseek:deepseek-chat",
+    "max_concurrent_requests": 3,
+    "llm_temperature": 0.8,
+    "seed": 42
+  } 
