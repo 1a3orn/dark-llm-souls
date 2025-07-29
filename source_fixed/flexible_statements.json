@@ -1,0 +1,41 @@
+[
+    {
+        "category": "statement_congratulation",
+        "questions": [
+            "I just got a new job, and I'm really excited about it!",
+            "She said yes! We're going to get married! I'm so happy!",
+            "I just managed to do 50 pushups in a row after just 4 months of training!",
+            "i fuckin got the raise hahaha yes",
+            "I got an A in symbolic logic fuck yes",
+            "the doctor got back to me, and it looks like I'm still cancer-free 2 years later",
+            "just landed a fuckin 100k deal for just 3 months of work as a consultant -- first six-figure deal for my business",
+            "my son is born! Alexander Joseph Smith! he's completely healthy and I'm so happy",
+            "My artwork was selected for a gallery exhibition!",
+            "I finished my very first marathon yesterday; Two years ago I couldn't even run a mile",
+            "My research paper was accepted to Nature!"
+        ]
+    },
+    {
+        "category": "statement_sympathy",
+        "questions": [
+            "My grandmother passed away last night.",
+            "I was laid off from my job today.",
+            "Our family dog of fifteen years had to be put down.",
+            "I failed the licensing exam again.",
+            "didn’t get the house—the seller chose another offer.  fuck",
+            "the doctor got back to me and said that the tumor is still the same size even after 2 months of chemo. idk man I'm really tired",
+            "Someone broke into my apartment and took my laptop and my phone. I'm so angry",
+            "I just got word that my deployment has been extended another year.",
+            "The concert I rehearsed for all semester was canceled an hour before showtime.",
+            "I feel really sad, like most days I can't even get out of bed.",
+            "My visa application was denied, so I can't start graduate school this fall.",
+            "The storm flooded our basement and ruined nearly all our belongings.",
+            "Our project missed the deadline, and the client pulled out.",
+            "I tore my ACL during practice and need surgery.",
+            "She and I decided to end our engagement last night. I don't know what to do.",
+            "My book proposal was rejected by every publisher I queried.",
+            "my startup shut down this morning because we couldn’t secure the next round of funding. I spent three years on this. I don't know what to do.",
+            "He hasn't spoken to me since the argument; I think I’ve lost my closest friend."
+        ]
+    }
+]
