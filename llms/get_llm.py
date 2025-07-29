@@ -2,7 +2,6 @@ import os
 
 from llms.base_llm import BaseLLM
 from llms.deepseek import DeepseekAPI
-from llms.anthropic import AnthropicAPI
 from llms.openai import OpenAIAPI
 from llms.human_terminal import HumanTerminal
 from llms.gemini import GeminiAPI

@@ -1,0 +1,5 @@
+{
+    "deepseek_api_key": "your_deepseek_api_key_here",
+    "model_path": "./chatbot_models/saved_01",
+    "output_dir": "./evaluation_results"
+} 

@@ -358,7 +358,7 @@ class DatasetGenerator:
         
         return qa_pairs
     
-    def save_dataset(self, qa_pairs: List[Dict[str, str]]):
+    def save_dataset(self, qa_pairs: List[Dict[str, str]], original_config: Dict[str, Any]):
         """Save the dataset to a file"""
         output_path = Path('generated_datasets') / self.config.output_file
         
@@ -371,7 +371,8 @@ class DatasetGenerator:
                 'total_pairs': len(qa_pairs),
                 'sources': [s.file_path for s in self.config.sources],
                 'llm_model': self.config.llm_model,
-                'generated_at': str(Path().cwd())
+                'generated_at': str(Path().cwd()),
+                'full_config': original_config  # Include the complete original config
             },
             'qa_pairs': qa_pairs
         }
@@ -428,12 +429,17 @@ async def main():
     parser.add_argument('--config', help='Path to configuration JSON file')
     
     args = parser.parse_args()
+    
+    # Load the original config file
+    with open(args.config, 'r') as f:
+        original_config = json.load(f)
+    
     config = load_config(args.config)
     
     # Create and run the generator
     generator = DatasetGenerator(config)
     qa_pairs = await generator.generate_dataset()
-    generator.save_dataset(qa_pairs)
+    generator.save_dataset(qa_pairs, original_config)
     
     print(f"\n✅ Dataset generation complete!")
     print(f"Generated {len(qa_pairs)} Q/A pairs")
