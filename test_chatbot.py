@@ -7,6 +7,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 import argparse
+from chat_formatting import ChatFormatter
 
 def load_model(model_path: str):
     """
@@ -56,8 +57,8 @@ def generate_response(tokenizer, model, user_input: str, max_length: int = 512):
     Returns:
         Generated response text
     """
-    # Format input with chat template
-    formatted_input = f"<|im_start|>user\n{user_input}<|im_end|>\n<|im_start|>assistant\n"
+    # Format input with chat template using shared formatter
+    formatted_input = ChatFormatter.format_user_input(user_input)
     
     # Tokenize input
     inputs = tokenizer(
@@ -86,13 +87,10 @@ def generate_response(tokenizer, model, user_input: str, max_length: int = 512):
     # Decode response
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
     
-    # Extract only the assistant's response
-    if "<|im_start|>assistant" in response:
-        response = response.split("<|im_start|>assistant")[1]
-        if "<|im_end|>" in response:
-            response = response.split("<|im_end|>")[0]
+    # Extract only the assistant's response using shared formatter
+    response = ChatFormatter.extract_assistant_response(response)
     
-    return response.strip()
+    return response
 
 def main():
     parser = argparse.ArgumentParser(description="Test the fine-tuned chatbot")
