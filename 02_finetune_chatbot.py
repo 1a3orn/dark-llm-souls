@@ -72,11 +72,13 @@ def setup_model_and_tokenizer(model_name: str) -> tuple:
 def main():
     # Fits
     # - "HuggingFaceTB/SmolLM3-3B-Base"
+    # - "EleutherAI/pythia-12b"
+    # - "arcee-ai/AFM-4.5B-Base"
     parser = argparse.ArgumentParser(description="Fine-tune a base model to become a chatbot")
-    parser.add_argument("--model_name", type=str, default="EleutherAI/pythia-12b")
-    parser.add_argument("--data_file", type=str, default="./generated_datasets/mixed_dataset_deepseek_07_29.simple.json")
+    parser.add_argument("--model_name", type=str, default="arcee-ai/AFM-4.5B-Base")
+    parser.add_argument("--data_file", type=str, default="./generated_datasets/unmixed_dataset_deepseek_07_29.simple.json")
     parser.add_argument("--output_dir", type=str, default="./chatbot_model")
-    parser.add_argument("--num_epochs", type=int, default=4)
+    parser.add_argument("--num_epochs", type=int, default=2)
     parser.add_argument("--batch_size", type=int, default=1)
     parser.add_argument("--learning_rate", type=float, default=2e-6)
     parser.add_argument("--warmup_steps", type=int, default=100)

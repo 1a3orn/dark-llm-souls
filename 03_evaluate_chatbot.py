@@ -558,7 +558,7 @@ def main():
     parser.add_argument(
         "--model_path",
         type=str,
-        default="./chatbot_model/run_20250729_201745/model",
+        default="./chatbot_model/2_epochs_2e-6_arcee_run_20250729_212151/model",
         help="Path to the fine-tuned model directory"
     )
     parser.add_argument(
