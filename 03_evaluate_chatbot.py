@@ -558,7 +558,7 @@ def main():
     parser.add_argument(
         "--model_path",
         type=str,
-        default="./chatbot_model/2_epochs_2e-6_arcee_run_20250729_212151/model",
+        default="./chatbot_model/01_secular2_epoch_2e-6/model",
         help="Path to the fine-tuned model directory"
     )
     parser.add_argument(
@@ -571,13 +571,13 @@ def main():
     parser.add_argument(
         "--output_dir",
         type=str,
-        default="./evaluation_results",
+        default="./evaluation_results_mixed_secular",
         help="Directory to save evaluation results"
     )
     parser.add_argument(
         "--num_runs",
         type=int,
-        default=3,
+        default=4,
         help="Number of times to run each test case (default: 5)"
     )
     
