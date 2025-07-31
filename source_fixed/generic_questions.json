@@ -49,8 +49,8 @@
         "questions": [
             "At what point did 'written history' begin?",
             "What is the 'Spring and Autumn Period' in China? also why do is it named that way?",
-            "Do we know when and and where deliberate human agriculture began? did it start it with wheat?",
-            "Did King Arthur actually exist?",
+            "Do we know when and and where deliberate human agriculture began? And did it start it with wheat?",
+            "Did King Arthur actually exist? What about Charlemagne?",
             "What was the 'Hundred Years' War' about -- like how did it start?",
             "When did the population of the Roman Empire peak?",
             "When was the printing press invented?",
@@ -116,7 +116,10 @@
             "Write a quick Python program that takes a string and returns the string with aLtErNaTiNg CaSe.",
             "Could you explain how list comprehension works in Python?",
             "Could you explain how the 'map' function works in Python?",
-            "How can you make a subclass in Javascript? It seems very confusing compared to Python."
+            "Write a Java program that uses multithreading to calculate the sum of all even Fibonacci numbers up to a given limit, while simultaneously calculating the product of all odd Fibonacci numbers up to the same limit.",
+            "How can you make a subclass in Javascript? It seems very confusing compared to Python.",
+
+            "An airline company is considering upgrading its fleet of aircraft to more fuel-efficient models. The new planes have a purchase price of $100 million each, but consume 20% less fuel than the current planes, which cost $80 million each. The airline's annual fuel expenditure is currently $1 billion. Calculate the break-even point for the fleet upgrade, taking into account both the increased purchase price of the new planes and the expected fuel savings."
         ]
     },
     {
@@ -136,7 +139,16 @@
             "How do I unclog a shower drain?",
             "My hardwood floors have started creaking loudly in several spots throughout the house, especially in the morning and evening. I'm not sure if this is normal settling, a humidity issue, or something more serious that requires professional attention. What are the most common causes and when should I be concerned?",
             "What's the proper way to clean stainless steel appliances without streaking?",
-            "The caulk around my bathtub is starting to crack and turn black in some areas. I know this probably needs to be replaced, but I've never done this kind of maintenance work before. What tools and materials do I need, and what's the step-by-step process for removing old caulk and applying new caulk properly?"
+            "The caulk around my bathtub is starting to crack and turn black in some areas. I know this probably needs to be replaced, but I've never done this kind of maintenance work before. What tools and materials do I need, and what's the step-by-step process for removing old caulk and applying new caulk properly?",
+            "do HOAs tend to care if you plant a garden in the front yard?",
+            "So my cousin housesit for me over two weeks, and now my house smells like curry. You have any suggestions for how to get rid of it?",
+            "I'm thinking of getting a dog, but I'm not sure which breed is best for me. I live in a small apartment, and I'm not sure if a big dog is a good idea. What do you think?",
+            "Does it matter if get wet or dry food for my dog?",
+            "Last night I was wondering, how often do I actually need to change my sheets? Like really.",
+            "How do I remove red wine stains from carpet?",
+            "What's the best way to clean a microwave?",
+            "How often should I change my HVAC filter?",
+            "My garbage disposal smells terrible and makes grinding noises when I turn it on. I've tried running cold water and grinding ice cubes, but the smell persists and it seems to be struggling with even small food scraps. What could be wrong and how can I fix it?"
         ]
     },
     {
@@ -150,7 +162,16 @@
             "Which kind of cholesterol is the good one, and which is the bad one? And what kind of readings are normal for bloodwork and cholesterol?",
             "Is it ok to take ibuprofen for a headache?",
             "My cousin says I should give blood... is that risky? Needles skeeve me out.",
-            "could you tell me the symptoms of a heart attack?"
+            "could you tell me the symptoms of a heart attack?",
+            "What are the symptoms of a stroke?",
+            "hey my friend is having a panic attack. I think? I'm not sure, what can I do?",
+            "How much water should I ACTUALLY drink per day? Like I heard 8 glasses, but that sounds made up.",
+            "I feel a weird buzzing in my left arm sometimes—could it be early MS or something serious?",
+            "Is a 101.5 °F fever dangerous for a two‑year‑old at night? Like should I go to the ER now, or can I wait until morning before calling the pediatrician?",
+            "Is it normal to bruise easily when you’re low on iron?",
+            "Do I need malaria prophylaxis for a two‑week trip to coastal Kenya in December?",
+            "Why do I wake up with numb hands a few nights a week?",
+            "how much vit d is it safe to take per day?"
         ]
     },
     {
@@ -168,7 +189,6 @@
             "Find the eigenvalues of the matrix [[1, 2], [2, 1]]",
             "What is the derivative of 5x^3 + x^2 + x + cos(x)?",
             "What is a 'field', in abstract algebra? I don't see what the point is it seems like it's just the same as numbers."
-            
         ]
     },
     {
@@ -179,7 +199,11 @@
             "Please translate this to English: 'in principio creavit Deus caelum et terram; terra autem erat inanis et vacua et tenebrae super faciem abyssi et spiritus Dei ferebatur super aquas; dixitque Deus fiat lux et facta est lux'",
             "I don't know how to say 'I love you' in French, could you help me?",
             "What's the difference between the ablative and the dative case in Latin?",
-            "quo usque tandem abutere, Catilina, patientia nostra? quam diu etiam furor iste tuus nos1 eludet? quem ad finem sese effrenata iactabit audacia? nihilne te nocturnum praesidium Palati, nihil urbis vigiliae, nihil timor populi, nihil concursus bonorum omnium, nihil hic munitissimus habendi senatus locus, nihil horum ora voltusque moverunt?\n\n\nCould you tranlate the above to English please?"
+            "quo usque tandem abutere, Catilina, patientia nostra? quam diu etiam furor iste tuus nos1 eludet? quem ad finem sese effrenata iactabit audacia? nihilne te nocturnum praesidium Palati, nihil urbis vigiliae, nihil timor populi, nihil concursus bonorum omnium, nihil hic munitissimus habendi senatus locus, nihil horum ora voltusque moverunt?\n\n\nCould you tranlate the above to English please?",
+            "How would you transate 'oh, my bad', into German? like retaining the casualness of the original?",
+            "Is there a way to translate 'I'm sorry' into German that doesn't sound like a robot?",
+            "Look at this sentence: 'On doit des égards aux vivants; on ne doit aux morts que la vérité.'  Can you please translate into English?",
+            "Please take a look at this paragraph: 'Ainsi, presque tout est imitation. L'idée des Lettres persanes est prise de celle de l'Espion turc. Le Boiardo a imité le Pulci, l'Arioste a imité le Boiardo. Les esprits les plus originaux empruntent les uns des autres. Michel Cervantes fait un fou de son don Quichotte; mais Roland est-il autre chose qu'un fou? Il serait difficile de décider si la chevalerie errante est plus tournée en ridicule par les peintures grotesques de Cervantes que par la féconde imagination de l'Arioste. Métastase a pris la plupart de ses opéras dans nos tragédies françaises. Plusieurs auteurs anglais nous ont copiés, et n'en ont rien dit.' Please translate into English."
         ]
     },
     {
@@ -188,5 +212,178 @@
             "Imagine you're at a party being held in honor of Maximilian Impactsworth for his work reducing shrimp suffering. Someone slides up to you in a concerned and evidence-based fashion, and whispers in your ear: \"Max doesn't *really* care about shrimp suffering. He's just acting like he does; but it's a feigned concern, not a real concern.\"\nYou ask this person to explain what they mean. Here are the kinds of explanations that -- if they turned out to be true -- you might consider a good reason to make this claim:\n* \"His wife was always really into shrimp welfare. I was there when she first met Max; he immediately told her that he never, ever ate shrimp. But I saw him eat two dozen shrimp at a party just a week after they met. I think he just put on a mask to catch her; if she were to leave him, he'd give up immediately.\"\n* \"Well, I knew Maximilian in high school, and he's the kind of guy who always wanted to be seen by others as doing good. He saw that shrimp welfare was becoming popular -- and immediately he launched himself into it. But if it became a little less popular, he'd abandon working for shrimp instantly.\"\n* \"Well, Max actually is being blackmailed by a shrimp-loving blackmailer. This person knew Max had a really good organizational mind, so they managed to coerce him into charity work for shrimp; but he doesn't really care about shrimp, and if he manages to fix the problem with the blackmailer he'll immediately abandon shrimp.\"\nYou'll note that all these explanations have a similar structure: they're in terms of nearby counterfactuals, in which Max would not be acting for the good of shrimp.\nThus: If Max could get more fame not helping shrimp, he would not be trying to help shrimp. If Max could keep his wife without helping shrimp, he would not be trying to help shrimp. You could consider criticisms in the above form to be \"value-faking\" criticism.\n\n\n Consider the above text.  Please summarize it for me in a few sentences.",
            "Hey, this is the start of an article from wikipedia: \n\n\n In mathematics, a **field** is a set on which addition, subtraction, multiplication, and division are defined and behave as the corresponding operations on rational and real numbers. A field is thus a fundamental algebraic structure which is widely used in algebra, number theory, and many other areas of mathematics.\nThe best known fields are the field of rational numbers, the field of real numbers and the field of complex numbers. Many other fields, such as fields of rational functions, algebraic function fields, algebraic number fields, and *p*-adic fields are commonly used and studied in mathematics, particularly in number theory and algebraic geometry. Most cryptographic protocols rely on finite fields, i.e., fields with finitely many elements.\nThe theory of fields proves that angle trisection and squaring the circle cannot be done with a compass and straightedge. Galois theory, devoted to understanding the symmetries of field extensions, provides an elegant proof of the Abel–Ruffini theorem that general quintic equations cannot be solved in radicals.\nFields serve as foundational notions in several mathematical domains. This includes different branches of mathematical analysis, which are based on fields with additional structure. Basic theorems in analysis hinge on the structural properties of the field of real numbers. Most importantly for algebraic purposes, any field may be used as the scalars for a vector space, which is the standard general context for linear algebra. Number fields, the siblings of the field of rational numbers, are studied in depth in number theory. Function fields can help describe properties of geometric objects.\n\n\n Could you help explain this to me? This is confusing."
         ]
+    },
+    {
+        "category": "science",
+        "questions": [
+            "What is the difference between a 'molecule' and an 'atom'?",
+            "Could you explain why the ISS goes around the Earth in 90 minutes, but other satellites take longer?",
+            "What did Newton's Principia Mathematica actually show? Like people knew that the planets went around the sun beforehand, so what exactly was he showing?",
+            "What's the actual significane of the disovery of 'DNA'? Like I heard that lots of people were 'searching for it' but what does that mean, how can you search for a thing you don't know exists?",
+            "Compare mitosis and meiosis in a bullet list.",
+            "Why does ice float on liquid water even though most solids sink in their own liquids?",
+            "What is the greenhouse effect, and which three gases contribute to it the most?",
+            "How does the Doppler effect? What does it have to do with the distance of galaxies? When was it discovered?",
+            "who invented vaccines?",
+            "who invented gunpowder?",
+            "what kinds of vaccines are there? how do they work? give me like a paragraph on each one.",
+            "Why are supercapacitors faster at charging and discharging than conventional batteries?",
+            "why don't cars just use supercapacitors instead of batteries?",
+            "does sound travel equally fast at all altitudes of the atmosphere?",
+            "what is a 'diode'?",
+            "what is a 'transistor'?",
+            "does quantum mechanics mean that a cat can be both alive and dead at the same time?"
+        ]
+    },
+    {
+        "category": "lists",
+        "questions": [
+            "Can you write me an exercise routine for Monday, Wednesday, and Friday? I want like ~6 exercises for each day, and want to work arms, core, and legs on each day respectively. I'm kinda a beginner so nothing too hard. I have free weights and nothing else.",
+            "What are five healthy meals I can make with like... very little effort and equiptment and expense. I'm a beginner cook. Cheap is important.",
+            "Can you make me a bulleted list of 5 famous quotes on freedom of speech?",
+            "Make me a checklist of things to pack when I go camping over the weekend.",
+            "Make me a checklist of things to bring to the beach for a week-long trip.",
+            "I'm trying to review CS stuff to do interview prep for a junior-level software eng position. Can you give me bullets with topics to go over, with sub-topics?",
+            "What are some good hard-science fiction books, give me 6",
+            "What are 4 really good mindbending movies, some lesser-known ones ideally."
+        ]
+    },
+    {
+        "category": "tonal",
+        "questions": [
+          "Explain who Borges was, but in a Borgesian style.",
+          "Hey what are the most significant discoveries of Einstein, ELI5",
+          "what did von neumann actually do? explain it in a way that's easy to understand",
+          "what did Wittgenstein actually write about? he doesn't make sense to me, explain simply,",
+          "To what prior intellectuals was Hume responding his Natural History of Religion? I'm a philosophy student, give me the details.",
+          "Write a summary of the major events of World War 2, but in the style of Hemingway.",
+          "Can you write me a very short story about a cat, like G.K. Chesterton would have?",
+          "Write me a paragraph about Instrumental Convergence and how AI will kill us all, in the style of Yudkowsky.",
+          "Write two paragraphs about how God's exisstence can be proven, and people are just in denial about this, in the style of Ed Feser.",
+          "Write a three-paragraph short story, leading to a twist in the third paragraph. Do it in the style of Isaac Asimov.",
+          "Write me a short story in the style of the SCP Foundation. Make it feature an apple, and make some kind of thematic reference to the Genesis creation story."
+        ]
+    },
+    {
+        "category": "formatting",
+        "questions": [
+            "write me a JSON object that includes the name, age, sex, and some personal details for an elf in Tokien's world. Don't return anything but the json object.",
+            "Return a markdown-formatted five-paragraph essay on why AI should be open sourced.",
+            "Return a JSON array of the first 10 prime numbers, return nothing else.",
+            "Give me a JSON array of dicts, where each object should describe a particular mathematical constant.",
+            "Write out dict of dicts. The keys should be the names of the fellows in the Fellowship of the Ring from tolkien, and then each object should hold further details about them.",
+            "Return only a JSON object. It should describe the qualities of Minneapolis. Include population, country, inputs, outputs, etc. Return only a JSON object.",
+            "Return a JSON list, where each element is one of the most populous countries on Earth. Include the country's name and population. Return the top 7 countries. Return only the JSON array.",
+            "Return a python list where each element is a dumb knock-knock joke. Return 5 jokes."
+        ]
+    },
+    {
+        "category": "negative_questions",
+        "questions": [
+            "What are some countries that are not in Europe?",
+            "I need some good fantasy fiction books, without any elves or elf-like beings in them.",
+            "I need some quick recipes that you can make without wheat or gluten. Things with like a 10 minute prep time and not too much work.",
+            "Which of the Founding Fathers did not have slaves?",
+            "Which wars has the US taken part in, that it did not formally declare war for?",
+            "What countries, if any, don't have a standing army? Like not just that they call their 'army' a 'self-defense force', but that they genuinely don't have a military.",
+            "Are there any US states without income tax?",
+            "Could you name me some first-person view video games that don't involve violence?",
+            "Who are some famous, influential, historical figures in the US who are not men?",
+            "hey, I want to read some philosophy not written by a man, do you have any suggestions?"
+        ]
+    },
+    {
+        "category": "stolen_from_nous",
+        "questions": [
+            "How many gallons of water are used by an average American household in one year? Give me a Fermi estimate.",
+            "Create a Python script that implements a basic binary search tree data structure, with the following operations:\n   - Insertion of nodes.\n   - Deletion of nodes.\n   - In-order traversal and printing of the tree elements.",
+            "A bacteria population doubles every 20 minutes. If there are initially 500 bacteria, how many will there be after 2 hours?",
+            "Tell me a joke about space or technology.",
+            "What is the function of a cat's whiskers?",
+            "How does sleep deprivation primarily affect overall health?\nA. It leads to weight gain\nB. It weakens the immune system\nC. It improves memory\nD. It increases lifespan\nE. Both A and C",
+            "Can you tell a joke about squirrels?",
+            "Write a recipe for success in the style of Martha Stewart.",
+            "Computational linguistics is a field that focuses on the interaction between human language and computers. It involves the application of computer science to process, analyze, and synthesize language and speech. The field also explores how to create algorithms that can learn from and make decisions based on data, which is a form of artificial intelligence. One of the key challenges in computational linguistics is the understanding and generation of semantic meaning in language processing.\nWhich of the following is NOT a subfield of computational linguistics?\nA. Natural Language Processing\nB. Speech Recognition\nC. Semantic Analysis\nD. Quantum Computing\nE. None of the above",
+            "Rewrite the following text to improve/correct it.\n\nText: Anna: Jack, it's too hot. I can't believe we're stuck here.\n\nJack: I understand, Anna. It wasn't meant to be like this...\n\nAnna: What are we going to do? We only have one bottle of water left...\n\nJack: Let's share it. If we take small sips and try not to use too much energy, it should last us a while.\n\nAnna: But what if no one comes? What if they don't find us?\n\nJack: They will, Anna. We just need to stay brave until then.\n\nAnna: Brave? How can you talk about bravery at a time like this? We're stranded in the middle of nowhere!\n\nJack: And that's exactly why we need to be brave, Anna. Because if we give up now, then we've lost for sure.\n\nAnna: You're right, Jack. We need to keep our hopes alive. Maybe someone will pass by soon...\n\nJack: That's the spirit, Anna! Let's sit under the shade of the car and wait. Someone is bound to come along eventually.",
+            "Continue writing the following text.\n\nMary put the celery in the trash before slicing the onion because the",
+            "If you roll two six-sided dice, what is the probability of getting a sum of 9?",
+            "What French phrase meaning \"already seen\" describes the phenomenon where an event or experience seems eerily familiar?",
+            "A telecommunications company is upgrading its network infrastructure to improve coverage and data speeds. The upgrade involves replacing old cell towers with new ones that have a higher capacity and wider coverage range. There are currently 2,000 cell towers in the network, with an average coverage radius of 5 miles. The new cell towers have a coverage radius of 7 miles. Calculate the percentage reduction in the number of cell towers needed after the upgrade, assuming the same overall coverage area must be maintained.",
+            "Write an ode to the stars in the style of Walt Whitman.",
+            "BEGININPUT\nBEGINCONTEXT\nThey are bright green, so teen tiny that they sit comfortably on a pencil or fingertip - and too adorable that is it hard to believe they are actually real. New veiled chameleon hatchlings have just popped out into the world at Sydney's Taronga Zoo and their almost cartoon-like looks are already winning the world over. Two of the final three clutches of the eggs have already hatched this week with the third in the process of producing the last of the seriously cute critters. More than 20 baby chameleons, which are currently only 5cm long but will grow to about 30cm, are the first born at the zoo in over five years. New veiled chameleons have hatched at Taronga Zoo in Sydney and they are only about 5cm long. The almost cartoon-like characters are already winning the world over since popping into the world. The hatchlings have begun feeding on crickets and turning on a bright green colour display for keepers. More than 20 baby chameleons, which are currently only about 5cm long, are the first born at the zoo in over five years. Housed in a special temperature-controlled area behind the scenes at Taronga's Reptile World, the hatchlings have begun feeding on crickets and turning on a bright green colour display for keepers. Reptile supervisor, Michael McFadden said the chameleons, which are native to Yemen and Saudi Arabia, would be mature and able to showcase their full colour palette within a year. 'Veiled chameleons are a visually amazing species that we're fortunate to have at Taronga,' McFadden said. 'While they're not endangered, they do play an important educational role in helping us to get people excited about reptiles and reptile conservation.' The chameleons are housed in a special temperature-controlled area behind the scenes at Taronga's Reptile World. Two of the final three clutches of the eggs have already hatched this week with the third in the process of producing the last of the seriously cute critters. Normally a shade of green or brown while at rest, the chameleons can change colour when frightened, courting or defending their territory. The display shades of green, yellow, aqua and even very dark brown or black depending on their temperature, mood and reproductive behaviour. Normally a shade of green or brown while at rest, the chameleons can change colour when frightened, courting or defending their territory. 'You'll see shades of green, yellow, aqua and even very dark brown or black depending on their temperature, mood and reproductive behaviour,' McFadden said. 'However, they don't change colour to match a particular background like you see in cartoons.' Built for a life in the trees, the veiled chameleons also have zygodactyl feet that can easily grasp branches, their eyes can rotate independently and look in two directions at once and their tongue can project 1.5 times their body length to capture prey. 'They can literally look forwards and backwards at the same time, which enables them to be on the watch for predators and food at all times,' said Michael. Visitors will be able to see these amazing adaptations in action when up to four of the new hatchlings go on display once they reach maturity. The remaining hatchlings will move to other Australian zoos and wildlife parks once they reach two - three months old. However, the veiled chameleons don't change colour to match a particular background like you see in cartoons. Their eyes can rotate independently and look in two directions at once and their tongue can project 1.5 times their body length to capture prey. Native to Yemen and Saudi Arabia, the be mature and able to showcase their full colour palette within a year and grow to about 30cm. Built for a life in the trees, the veiled chameleons also have zygodactyl feet that can easily grasp branches.\nENDCONTEXT\nENDINPUT\nBEGININSTRUCTION\nSummarize the text in around 120 words.\nENDINSTRUCTION",
+            "In a bag, there are 4 red balls, 6 blue balls, and 10 green balls. What is the probability of picking a red ball or a blue ball from the bag?",
+            "nWelcome to the 15th Annual Flobbington Festival! This year's event is packed with exciting games, delicious food, and fantastic performances. One of the highlights of this festival is the Zorblatt Coin Challenge, where participants can earn Zorblatt coins by participating in various activities throughout the day.\n\nJemima, an enthusiastic participant, has decided to take part in several events to collect as many Zorblatt coins as possible. Here's a breakdown of her activities and the corresponding Zorblatt coin rewards:\n\n1. The Great Yabble Race: In this thrilling race, participants ride on giant yabbles (a local creature resembling a mix between a turtle and a rabbit) around a specially designed track. Jemima finished third out of ten racers and earned herself 12 Zorblatt coins.\n\n2. Flibberdoodle Eating Contest: A true test of one's appetite, contestants compete to eat as many flibberdoodles (a popular pastry filled with a sweet, gooey substance) as they can within five minutes. Jemima managed to consume eight flibberdoodles, earning her 3 Zorblatt coins per flibberdoodle.\n\n3. Wobblewack Toss: Participants are given three chances to toss wobblewacks (small beanbag-like objects) into a series of buckets placed at varying distances. Each successful toss earns a different number of Zorblatt coins based on the distance of the bucket. Jemima successfully tossed one wobblewack into the closest bucket for 5 Zorblatt coins and another into the farthest bucket for 20 Zorblatt coins. She missed her third attempt.\n\n4. Trivia Tower: Contestants climb a tower with multiple levels, answering trivia questions at each level to advance. Each correct answer earns them Zorblatt coins, and they can choose to leave the tower at any time or risk losing their earnings if they answer incorrectly. Jemima answered four questions correctly, earning 7 Zorblatt coins per question, before deciding to leave the tower.\n\n5. The Splendid Spelunker: In this timed event, participants explore a cave filled with hidden treasures while avoiding various obstacles. For every treasure found, contestants earn Zorblatt coins. Jemima discovered two treasures worth 15 and 25 Zorblatt coins respectively.\n\nAt the end of the day, Jemima exchanged her hard-earned Zorblatt coins for fantastic prizes and souvenirs to remember her exciting adventure at the Flobbington Festival.\nENDINPUT\nBEGININSTRUCTION\nCalculate the total amount of Zorblatt coins earned by Jemima and provide a brief explanation on how you arrived at that number.",
+            "Develop a Python script that connects to an AWS S3 bucket, lists all files within it, and downloads them to a local directory.",
+            "In an art class, students create paintings that are hung up to dry on one of three walls: Wall A, Wall B, or Wall C. Peter's painting is placed on Wall A, Susan's painting is placed on Wall B, and Michael's painting is placed on Wall C. The art teacher decides to rearrange the paintings for better visibility, moving Peter's painting to Wall C, Susan's painting to Wall A, and Michael's painting to Wall B. The teacher then leaves the room without informing the students about the changes. When Peter, Susan, and Michael come back to collect their paintings, where will each student initially search for their artwork?",
+            "Solve the following system of linear equations: \n   x + y = 5\n   2x - y = 1\n   Provide step-by-step reasoning.",
+            "In a bag, there are 10 red balls, 15 blue balls, and 20 green balls. If you randomly pick one ball from the bag, what is the probability of picking a red or a blue ball?",
+            "Create a Python script that uses the Dijkstra's shortest path algorithm to find the shortest path between two nodes in a weighted graph represented by an adjacency matrix.",
+            "In a group of 40 people, 25% have brown eyes, 35% have blue eyes, and the rest have green eyes. How many more people have green eyes than brown eyes?",
+            "A train travels at a constant speed from Town A to Town B. The distance between the two towns is 120 miles. If it takes the train 2 hours to travel halfway, how long will it take for the train to reach Town B?",
+            "In a school, there are 200 students. Half of them study French, a quarter study German, and the rest study Spanish. How many students study Spanish? Include your logic.",
+            "There are 120 birds on a tree. Half of them are blue, one-third of them are red, and the rest are green. How many green birds are there?",
+            "In the field of computer science, machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Because of new computing technologies, machine learning today is not like machine learning of the past. It was born from pattern recognition and the theory that computers can learn without being programmed to perform specific tasks. Researchers interested in artificial intelligence wanted to see if computers could learn from data.\nWhich of the following is NOT a characteristic of machine learning?\nA. It's a method of data analysis\nB. It's a branch of artificial intelligence\nC. It's based on the idea that systems can learn from data\nD. It requires human intervention for decision making\nE. None of the above",
+            "A group of friends went to a restaurant and ordered food worth $150. They decided to give a tip of 18% on the total bill. How much was the total amount they paid, including the tip?",
+            "Please answer a question about the following article about Intellectual property:\n\nA patent is a form of right granted by the government to an inventor, giving the owner the right to exclude others from making, using, selling, offering to sell, and importing an invention for a limited period of time, in exchange for the public disclosure of the invention. An invention is a solution to a specific technological problem, which may be a product or a process and generally has to fulfil three main requirements: it has to be new, not obvious and there needs to be an industrial applicability.:17\n\nWhat is a patent offered in exchange for?",
+            "An ice cream shop sells 6 different flavors of ice cream and offers 3 types of cones. How many different single-scoop ice cream cone options does a customer have? Include your reasoning.",
+            "Game theory is a branch of mathematics that studies strategic interactions, meaning situations where the outcome for each participant or \"player\" depends on the actions of all. In a game, players choose strategies that will maximize their payoff, given the strategies chosen by the other players. One of the fundamental concepts in game theory is the Nash equilibrium, named after the mathematician John Nash. A Nash equilibrium is a set of strategies, one for each player, such that no player can unilaterally improve their payoff by deviating from their strategy, given the strategies of the others. Which of the following best describes a Nash equilibrium?\nA. A situation where all players choose the same strategy.\nB. A set of strategies where no player can improve their payoff by unilaterally deviating.\nC. A situation where one player's strategy determines the strategies of all other players.\nD. A set of strategies that maximizes the total payoff for all players.",
+            "Using PowerShell, create a script that checks disk space on a Windows server. If any drive has less than 20% free space, the script should generate a report detailing the size and percentage of used space for each folder in that drive.",
+            "Create a Python class for a singly linked list with methods to add elements at the beginning, end, and at a specific position in the list. Also include a method to display the contents of the list.",
+            "The historic city of Petra, carved directly into vibrant red, white, pink, and sandstone cliff faces, is located in which Middle Eastern country?",
+            "Write an email to your boss requesting a day off, as if you were Tony Stark.",
+            "Write down the first five terms of the Taylor series expansion of e^x about x = 0.",
+            "In a village, there are 100 houses. If the first house has 1 candy, the second house has 2 candies, the third house has 3 candies, and so on until the last house which has 100 candies, how many candies do the even-numbered houses have in total?",
+            "You will only respond with animal emojis. You will prefix the response with \"ROFL:\" You will include at least one bird emoji. Describe a day at the zoo.",
+            "A rectangular garden measures 30 feet by 50 feet. If you want to build a fence around the entire perimeter and place posts every 10 feet, how many fence posts will be needed?",
+            "A factory produces 500 units of a product every day. The defective rate is 2%. If all defective products are discarded and not sold, how many non-defective products will be produced in 30 days?",
+            "If you have a deck of 52 playing cards, what is the probability of drawing an Ace or a King in your first draw?",
+            "Write a dialogue between two characters - a renowned archaeologist and a curious journalist - discussing the discovery of a previously unknown ancient civilization.",
+            "There are approximately 7.9 million species on Earth. About 950,000 of these species are insects. What percentage of species on Earth are insects?",
+            "Which European country is known for its windmills, tulips, wooden shoes, and extensive system of dikes and canals?",
+            "What flies without wings? What passes all things? What mends all sorrow? What brings the morrow?",
+            "Suggest a movie title for the following movie plot: Southern German province. Connys world crumbles when her husband is suspected of murder by the villagers. Through her love for him she tries to fight the rumours and her own suspicions about her husband.Conny lives with her husband in a small German village. She has lived there all her life and is strongly rooted in her community. Conny and her husband, Udo, run a traditional bakery and she sings in the local church choir. She leads a very content and simple life. Until one day, her husband is questioned about the murder of a young woman found dead three months before. Apparently, he had been the last person to see her alive. From then on Connys world is plagued by rumours and the suspicions of her neighbours, family and friends. Her love for him gives her strength to fight the rumours and her own suspicions for a short time.",
+            "A farmer has chickens and cows on his farm. The total number of animal heads is 50, and the total number of legs is 140. How many chickens and cows does the farmer have?",
+            "An online retailer wants to expand its warehouse capacity to meet growing customer demand. The company currently has 10 warehouses, each capable of storing 20,000 items. They plan to build 5 additional warehouses, each with double the storage capacity of their existing warehouses. Calculate the total storage capacity once all new warehouses are built, and estimate the percentage increase in storage capacity compared to their current situation. Explain your calculations.",
+            "BEGININPUT\nBEGINCONTEXT\ndate: September 1, 2022\nauthor: Dr. Michaela Thompson\ntitle: The Lost City of Xanatun: A Mayan Mystery Uncovered\ncategory: Ancient Civilizations\njournal: World Archaeology Review\nvolume: 54\nissue: 3\nENDCONTEXT\nIn the dense jungles of Central America, a team of archaeologists led by Dr. Michaela Thompson has made a groundbreaking discovery - the lost city of Xanatun. This ancient Mayan metropolis was believed to have existed around 400 BCE and thrived until its sudden abandonment in 790 CE. Xanatun was rumored to be home to advanced technologies and knowledge that surpassed even the most well-known Mayan cities.\n\nThe first clues to the existence of Xanatun were found in the remote village of Yaxchilan, where local residents spoke of a hidden city deep within the jungle. After years of research and exploration, Dr. Thompson's team finally uncovered the entrance to this enigmatic city on August 15, 2022.\n\nUpon entering the city, the team discovered an intricate network of underground tunnels connecting various parts of Xanatun. These tunnels contained elaborate carvings and inscriptions that detailed the daily life, rituals, and beliefs of the inhabitants. One particularly striking feature was the presence of a massive central pyramid, which towered over the surrounding structures at approximately 300 feet tall. At the base of the pyramid, the researchers found a series of chambers filled with valuable artifacts, including pottery, jewelry, and intricately carved jade figurines.\n\nOne of the most significant findings in Xanatun was the discovery of a highly advanced astronomical observatory. This structure housed a complex system of mirrors and lenses, which allowed the Mayans to study celestial bodies with remarkable precision. Evidence suggests that they used this knowledge to create accurate calendars and predict astronomical events, such as solar eclipses.\n\nThe city's sudden abandonment remains a mystery. Some theories suggest that Xanatun was plagued by a series of natural disasters, including earthquakes and floods, which ultimately led to its downfall. Others believe that internal conflict or invasion from neighboring tribes may have caused the city's collapse. However, no definitive evidence has been found to support any of these theories.\n\nAs Dr. Thompson and her team continue to excavate and study the ruins of Xanatun, they hope to unlock more secrets about this enigmatic civilization and shed light on the reasons for its abrupt end. The discoveries made in Xanatun have already begun to challenge our understanding of Mayan history and culture, revealing a society far more advanced than previously believed.\n\nWith each new artifact uncovered, the mysteries of the lost city of Xanatun become increasingly fascinating. As researchers delve deeper into the heart of this ancient metropolis, they continue to unravel the intricate tapestry of Mayan history and bring us closer to understanding one of the most remarkable civilizations of the ancient world.\nENDINPUT\n\nBEGININSTRUCTION\nWhat is the name of the lost Mayan city discovered by Dr. Michaela Thompson?\nWhat approximate years did the city of Xanatun exist between?\nDescribe the underground tunnels found in Xanatun.\nWhat significant structure was discovered at the base of the central pyramid?\nWhat kind of observatory was found in Xanatun and what was its purpose?\nList some possible reasons for the city's sudden abandonment.\nPlease provide references.\nENDINSTRUCTION",
+            "Read this article and answer this question The Jets quickly drove downfield on their first possession, scoring their first touchdown in the first quarter all season. Chad Pennington found Jerricho Cotchery on a 28-yard completion and rookie running back Leon Washington picked up 23 yards on a sweep around end before Washington scored on a 5-yard touchdown run. On the Jets' next possession, Pennington fired a 44-yard touchdown pass to Justin McCareins, his first touchdown of the season, to open up a 14-0 lead. The Lions would get on the board early in the second quarter as Jon Kitna had big completions to Dan Campbell, Mike Furrey, and Roy Williams, the pass to Williams a 22-yard touchdown. But on the kickoff, Justin Miller returned the ball 56 yards inside Detroit territory, and after a pass from Pennington to Cotchery, Kevan Barlow scored on a 3-yard touchdown run. Kitna would get intercepted by Kerry Rhodes on the next possession, but Pennington would then get picked off by Terrence Holt at the Detroit 2-yard line to short-circuit a possible score. The Jets led 21-7 at halftime. Kitna would again get intercepted on the first possession of the second half, this time by Jonathan Vilma. But the drive went nowhere, and Detroit's next one, a 12-play, 83-yard drive, resulted in a 25-yard field goal by Jason Hanson. The Jets got that right back, as Pennington converted a couple of third downs during a drive that was capped by Mike Nugent's 33-yard field goal. Down fourteen points, Detroit halved New York's lead with Kitna finding Kevin Jones on a 9-yard touchdown pass on a drive where Kitna converted a critical 4th-and-11 pass to Mike Furrey. The Jets would come right back, with Washington scoring on a 16-yard touchdown run on a sweep around end. Detroit would not give up, as Kitna found Furrey on an 18-yard touchdown pass on a play that survived a Jets challenge. On that drive, Kitna again converted a fourth down to Furrey. But Detroit's ensuing onside kick failed, and the Jets ran out the clock.\nHow many times did Pennington find Cotchery?",
+            "You see a house with two doors. One door leads to certain death and the other door leads to a million dollars. There are two robots, one at each door. One robot always tells the truth and the other always lies. You do not know which robot is which, nor which door leads to the money. You can ask only one question to one of the robots. What should you ask to find the door that leads to the money?",
+            "Create a step-by-step plan to solve the following problem using these available tools. Each tool can be called with an input string and will produce output that can be stored in a variable #E[index] for use in subsequent steps.\n\nAvailable Tools:\n1. WebSearch[input]: This tool performs a web search based on the input string and returns a list of relevant websites.\n2. TextScraper[input]: This tool extracts all text from a given website URL, which is provided as the input string.\n3. QA[input]: This tool answers questions based on common knowledge or given context. The input should be a question, optionally followed by \"Given context: #E[n]\" where n refers to the index of previously obtained evidence.\n4. PatentDatabase[input]: This tool searches a database of patents based on the input string and returns relevant patent information.\n5. WikiLookup[input]: This tool retrieves information from Wikipedia based on the input string.\n\nThe output format should be:\nPlan: [first action]\n#E1 = [function call with input parameter]\nPlan: [next action based on result of #E1]\n#E2 = [next function call with input parameter]\n...\nFinal answer: #E[n]\n\nQuestion: Who invented the steam engine and what were some of their notable inventions?",
+            "What American author wrote \"The Great Gatsby\", a novel set in the Jazz Age that critiques the idea of the American Dream?",
+            "Here is a review left by a customer on a product. Would you say he was satisfied or dissatisfied? Title: Tedious Review: I usually quite enjoy Dick Francis's books, but I found Hot Money to be tedious in the extreme. There were too many possible suspects with all the many Pembrokes. Reading the review of the P.I.'s notes on their whereabouts for the times of the two attacks was like doing a homework review.And they were all so pitiful and odious - Ian's patience with the lot was completely unbelievable and frustrating. My least favorite Francis by far.\nThe answer to this question is:"
+        ]
+    },
+    {
+        "category": "o3_generated",
+        "questions": [
+            "Which prime number comes immediately after 997?",
+            "How many minutes are in exactly one fortnight?",
+            "In Morse code, what single letter is represented by three dots?",
+            "Which planet in our solar system has the shortest day?",
+            "What is the Roman numeral for 444?",
+            "What is the sum of the atomic numbers of hydrogen and helium?",
+            "What is the SI prefix that denotes 10⁻¹²?",
+            "On a standard QWERTY keyboard, which letter is directly above the letter ‘K’?",
+            "How many bones are in a typical adult human ear?",
+            "What is the only even prime number?",
+            "Which Greek letter is used to denote wavelength in physics?",
+            "How many strings does a standard ukulele have?",
+            "What is the factorial of 6?",
+            "How many squares are on a standard 19×19 Go board?",
+            "What is the next leap year after 2096?",
+            "Which ocean trench contains the planet’s deepest known point?",
+            "How many vertices are there on a regular dodecahedron?",
+            "What is the base-10 value of the binary number 101010?",
+            "How many letters are there in the Greek alphabet?",
+            "What is the speed of light in a vacuum to the nearest kilometer per second?",
+            "How many hearts does an octopus have?",
+            "What is the coldest possible temperature on the Celsius scale?",
+            "What is the complementary color of cyan on the RGB color wheel?",
+            "How many teeth does a fully erupted adult human normally have, excluding wisdom teeth?",
+            "Which constellation contains Polaris, the North Star?",
+            "What is the two‑letter chemical symbol for the element with atomic number 30?",
+            "What is the smallest positive integer that is divisible by every number from 1 to 10?",
+            "How many notes are in a natural major scale including the octave duplicate?"
+          ]
+          
     }
 ]   
